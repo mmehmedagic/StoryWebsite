@@ -5,7 +5,7 @@ window.onresize = function() {
         var img = document.getElementById(pictures[i]);
         img.style.width = "100%";
         
-        // Work in progress
+        // Work in progress:
 
         // var ratio = img.width / img.height;
         // var rect = img.getBoundingClientRect();
